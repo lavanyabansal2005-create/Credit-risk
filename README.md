@@ -1,6 +1,6 @@
-# fram-assignment
+# READ ME
 
-This repository contains the code for the FIN F414 - Financial Risk Analytics & Management assignment.
+
 
 ## Setup
 
